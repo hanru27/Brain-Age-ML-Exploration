@@ -1,0 +1,1 @@
+Machine learning pipeline for brain age prediction from structural MRI volumetric features. Benchmarks five regression models (Ridge, Lasso, SVR, XGBoost, Random Forest) with cross-validation, GridSearchCV tuning, and PCA dimensionality reduction. Built as an undergraduate project
